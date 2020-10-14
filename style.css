@@ -1,0 +1,15 @@
+.once-upon-a-time {margin-bottom: 30px;}
+.once-upon-a-time:last-of-type {margin-bottom: 0;}
+.once-upon-a-time img {margin-bottom: 10px;}
+.once-upon-a-time-title {font-size: 1.5em; font-weight: bold;}
+.once-upon-a-time-excerpt {letter-spacing: 0.2px;}
+.once-upon-a-time-description {display: none;}
+.once-upon-a-time-date-range, .once-upon-a-time-address {font-size: 0.9em;}
+.once-upon-a-time-date-range {margin-top: 0.3em;}
+.once-upon-a-time-address {margin-bottom: 0.3em;}
+.once-upon-a-time-read-more {cursor: pointer; margin-top: 10px; margin-bottom: 10px; font-style: italic;}
+.once-upon-a-time-read-more:after {content: '\00BB'; margin-left: 0.3em; transition: all 0.2s ease-out;}
+.once-upon-a-time-read-more:hover:after {margin-left: 0.4em;}
+.once-upon-a-time-show-details:after {content: ''; margin-left: 0;}
+.once-upon-a-time-show-details:before {content: '\00AB'; margin-right: 0.3em; transition: all 0.2s ease-out;}
+.once-upon-a-time-show-details:hover:before {margin-right: 0.4em;}
