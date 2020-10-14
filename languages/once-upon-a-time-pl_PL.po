@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-09-08 14:54+0200\n"
+"PO-Revision-Date: 2020-09-08 14:54+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: once-upon-a-time.php:54 once-upon-a-time.php:57
+msgid "Events"
+msgstr "Wydarzenia"
+
+#: once-upon-a-time.php:55
+msgid "Event"
+msgstr "Wydarzenie"
+
+#: once-upon-a-time.php:56
+msgid "Add New Event"
+msgstr "Dodaj nowe wydarzenie"
+
+#: once-upon-a-time.php:58
+msgid "Add New"
+msgstr "Dodaj nowe"
+
+#: once-upon-a-time.php:59
+msgid "All Events"
+msgstr "Wszystkie wydarzenia"
+
+#: once-upon-a-time.php:69
+msgid "event"
+msgstr "wydarzenie"
+
+#: once-upon-a-time.php:106
+msgid "Event info"
+msgstr "Informacje"
+
+#: once-upon-a-time.php:137 once-upon-a-time.php:179
+msgid "January"
+msgstr "stycznia"
+
+#: once-upon-a-time.php:137 once-upon-a-time.php:179
+msgid "February"
+msgstr "lutego"
+
+#: once-upon-a-time.php:137 once-upon-a-time.php:179
+msgid "March"
+msgstr "marca"
+
+#: once-upon-a-time.php:137 once-upon-a-time.php:179
+msgid "April"
+msgstr "kwietnia"
+
+#: once-upon-a-time.php:137 once-upon-a-time.php:179
+msgid "May"
+msgstr "maja"
+
+#: once-upon-a-time.php:137 once-upon-a-time.php:179
+msgid "June"
+msgstr "czerwca"
+
+#: once-upon-a-time.php:137 once-upon-a-time.php:179
+msgid "July"
+msgstr "lipca"
+
+#: once-upon-a-time.php:137 once-upon-a-time.php:179
+msgid "August"
+msgstr "sierpnia"
+
+#: once-upon-a-time.php:137 once-upon-a-time.php:179
+msgid "September"
+msgstr "września"
+
+#: once-upon-a-time.php:137 once-upon-a-time.php:179
+msgid "October"
+msgstr "października"
+
+#: once-upon-a-time.php:137 once-upon-a-time.php:179
+msgid "November"
+msgstr "listopada"
+
+#: once-upon-a-time.php:137 once-upon-a-time.php:179
+msgid "December"
+msgstr "grudnia"
+
+#: once-upon-a-time.php:184
+msgid "Start of the Event"
+msgstr "Początek wydarzenia"
+
+#: once-upon-a-time.php:185 once-upon-a-time.php:214
+msgid "Day"
+msgstr "dzień"
+
+#: once-upon-a-time.php:187 once-upon-a-time.php:195 once-upon-a-time.php:205
+#: once-upon-a-time.php:216 once-upon-a-time.php:224 once-upon-a-time.php:234
+msgid "Choose"
+msgstr "wybierz"
+
+#: once-upon-a-time.php:193 once-upon-a-time.php:222
+msgid "Month"
+msgstr "miesiąc"
+
+#: once-upon-a-time.php:203 once-upon-a-time.php:232
+msgid "Year"
+msgstr "rok"
+
+#: once-upon-a-time.php:213
+msgid "End of the Event (optional)"
+msgstr "Koniec wydarzenia (opcjonalnie)"
+
+#: once-upon-a-time.php:242
+msgid "Event Address"
+msgstr "Adres wydarzenia"
+
+#: once-upon-a-time.php:243
+msgid "Address"
+msgstr "Adres"
+
+#: once-upon-a-time.php:312 once-upon-a-time.php:330
+msgid "Read more"
+msgstr "Czytaj dalej"
+
+#: once-upon-a-time.php:313
+msgid "Read less"
+msgstr "Zwiń szczegóły"
